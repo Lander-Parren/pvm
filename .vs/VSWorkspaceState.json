@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\course-material",
+    "\\course-material\\labs",
+    "\\course-material\\labs\\declarations",
+    "\\course-material\\labs\\declarations\\countdown",
+    "\\course-material\\labs\\declarations\\missing-declarations",
+    "\\course-material\\labs\\declarations\\nth-prime",
+    "\\course-material\\labs\\preprocessor",
+    "\\course-material\\labs\\preprocessor\\split-in-files",
+    "\\course-material\\labs\\preprocessor\\string-switch"
+  ],
+  "SelectedNode": "\\course-material\\labs\\declarations\\nth-prime\\solution.cpp",
+  "PreviewInSolutionExplorer": false
+}
